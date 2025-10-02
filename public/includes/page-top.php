@@ -13,7 +13,7 @@
       <nav class="navbar navbar-expand-lg navbar-light">
          <div class="container-fluid">
             <a class="navbar-brand" href="#">
-              <img src="./img/ham-ico-64.png.webp" alt="" width="32" height="32">
+              <img src="./img/hamburguerminiatura.jpg" alt="" width="32" height="32">
                  Larika
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain"
@@ -23,14 +23,18 @@
             <div class="collapse navbar-collapse" id="navbarMain">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a classe="nav-link" href="#">Home Page</a>
+                  <a class="nav-link" href="#">Home Page</a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id=-menuLink" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false">Cardapio</a>
                 <ul class="dropdown-menu" aria-labelledby="menuLink">
+
                   <li>
                     <a class="dropdown-item" href="#">Hamburguer</a>
+
+                    <?php require_once("cardapio.php") ?>
+                    
                   </li>
                   <li>
                     <a class="dropdown-item" href="#">Hot Dog</a>
@@ -46,6 +50,7 @@
                   </li>
                </ul>
                </li>
+              </ul>
             </div> 
          </div>
       </nav>

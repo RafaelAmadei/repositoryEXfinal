@@ -13,7 +13,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col">
-                                <img src="img/hamburger-h500.png" height="200px">
+                                <img src="img/hamburguer-h500.png" height="200px">
                             </div>
                             <div class="col card-text">
                                 Delicioso sanduíche com 2 hambúrgueres, salada, molho barbecue, bacon e queijo.
@@ -35,7 +35,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col">
-                                <img src="img/hamburger-h500.png" height="200px">
+                                <img src="img/hamburguer-h500.png" height="200px">
                             </div>
                             <div class="col card-text">
                                 Delicioso sanduíche com 2 hambúrgueres, salada, molho barbecue, bacon, frango, picles e queijo.
